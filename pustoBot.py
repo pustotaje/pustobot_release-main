@@ -20,7 +20,7 @@ parser.add_argument('--rmin', type=int, default=30, help='Минута обно�
 args = parser.parse_args()
 
 admin_users = [783735329, 777920257]
-API_TOKEN = '6405101803:AAHj4PegYpa7qnFaimskg-o5oj8fuWX8FO4'
+API_TOKEN = 'TOKEN'
 
 lasttimestamp = None
 
